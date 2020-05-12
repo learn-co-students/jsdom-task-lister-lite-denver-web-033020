@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=0USCqgDzVHA <<< tutorial i used
+
 // // js function format:
 // // function cat(){
 // // }
